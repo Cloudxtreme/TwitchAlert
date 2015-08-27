@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Twitch Alert",
+  "version": "1.0",
+  "description": "Alert when Twitch streamers go live",
+  "browser_action": {
+    "default_icon": "icon.png",
+	"default_popup": "popup.html"
+  }
+
+}
